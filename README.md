@@ -1,11 +1,21 @@
+<h1 align="center">Wi-Fi Password Extractor GUI - CYBER Mode 🚀</h1>
 
-# Wi-Fi Password Extractor GUI - CYBER Mode 🚀
-
-![App Icon](assets/images/app-icon.ico)
-
-Welcome to the **Wi-Fi Password Extractor** – the ultimate tool for extracting and managing saved Wi-Fi passwords on your Windows system. With a sleek GUI and simple workflow, this tool is designed to make extracting, saving, and copying your Wi-Fi passwords a breeze.
+<table>
+  <tr>
+    <td>
+      <p>
+        Welcome to the <strong>Wi-Fi Password Extractor</strong> – the ultimate tool for extracting and managing saved Wi-Fi passwords on your Windows system.<br>
+        With a sleek GUI and simple workflow, this tool is designed to make extracting, saving, and copying your Wi-Fi passwords a breeze.
+      </p>
+    </td>
+    <td align="right">
+      <img src="assets/images/app-icon.ico" width="120">
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ## 📦 Features
 
@@ -67,8 +77,13 @@ You can either run the application by opening the `start.bat` file or directly e
 ```bash
 python main.py
 ```
+---
 
-**Note**: The `.bat` file will run the Python script and open the GUI for you to use the tool.
+> ⚠️ **IMPORTANT:** This app does **NOT** run on its own by double-clicking `main.py`!  
+> To launch the GUI, you must either:  
+> 🔹 **Run** the `start.bat` file (recommended), **OR**  
+> 🔹 Open terminal and run: `python main.py`
+
 
 ---
 
@@ -122,7 +137,7 @@ This project is licensed under the **MIT License**. You can freely modify, distr
 
 Have questions or need support? Feel free to reach out!
 
-- **Email**: [shaswatacharya123@gmail.com](mailto:shaswatacharya123@gmail.com)
+- **GitHub Issues**: [Report an Issue](https://github.com/shaswatacharya/wifi-password-extractor-gui/issues)
 - **GitHub**: [github.com/shaswatacharya](https://github.com/shaswatacharya)
 
 ---
