@@ -61,7 +61,7 @@ def save_passwords():
     messagebox.showinfo("Saved", f"Passwords saved to:\n{file_path}")
 
 def open_instructions():
-    os.startfile("https://github.com/yourusername/yourproject")
+    os.startfile("https://github.com/shaswatacharya/wifi-password-extractor-gui")
 
 #Little Shortcut :) K code herira
 

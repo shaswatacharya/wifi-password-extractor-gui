@@ -39,21 +39,25 @@ pip install Pillow
 ## 🚀 Installation
 
 ### 1. **Clone or Download**:
-Clone or download this repository to your local machine.
+You have two options to get started:
+
+- **Option 1**: Clone or download this repository to your local machine.
 
 ```bash
 git clone https://github.com/shaswatacharya/wifi-password-extractor-gui.git
 ```
 
-### 2. **Navigate to Project Folder**:
-Open the project folder in your terminal or command prompt.
+- **Option 2**: If you want to directly download the executable, **[click here to download wifi-pass-extract.exe](https://github.com/shaswatacharya/wifi-password-extractor-gui/wifi-pass-extract.exe)**.
+
+### 2. **Navigate to Project Folder** (if cloning):
+If you’ve cloned the repository, navigate to the project folder in your terminal or command prompt.
 
 ```bash
 cd wifi-password-extractor-gui
 ```
 
-### 3. **Install Dependencies**:
-Install the required Python dependencies using pip.
+### 3. **Install Dependencies** (for Python version only):
+If you’re running the Python version of the application, install the required dependencies using pip.
 
 ```bash
 pip install Pillow
@@ -62,13 +66,18 @@ pip install Pillow
 `tkinter` should already be installed with Python, but if not, follow the installation instructions in the official tkinter documentation.
 
 ### 4. **Run the Application**:
-You can either run the application by opening the `start.bat` file or directly executing the Python script:
+
+#### **Option 1**: For Python version (requires Python and dependencies):
+You can run the application by opening the `start.bat` file or directly executing the Python script:
 
 ```bash
 python main.py
 ```
 
 **Note**: The `.bat` file will run the Python script and open the GUI for you to use the tool.
+
+#### **Option 2**: For Executable version (no Python required):
+If you’re using the precompiled `.exe` file, simply double-click the `wifi-pass-extract.exe` file to run the application. No need to install Python or any dependencies!
 
 ---
 
