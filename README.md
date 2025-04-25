@@ -57,7 +57,7 @@ You have two options to get started:
 git clone https://github.com/shaswatacharya/wifi-password-extractor-gui.git
 ```
 
-- **Option 2**: If you want to directly download the executable, **[click here to download wifi-pass-extract.exe](https://github.com/shaswatacharya/wifi-password-extractor-gui/wifi-pass-extract.exe)**.
+- **Option 2**: If you want to directly download the executable, **[Download exe](https://github.com/shaswatacharya/wifi-password-extractor-gui/raw/refs/heads/main/wifi-pass-extract.exe)**.
 
 ### 2. **Navigate to Project Folder** (if cloning):
 If you’ve cloned the repository, navigate to the project folder in your terminal or command prompt.
@@ -93,6 +93,17 @@ python main.py
 
 #### **Option 2**: For Executable version (no Python required):
 If you’re using the precompiled `.exe` file, simply double-click the `wifi-pass-extract.exe` file to run the application. No need to install Python or any dependencies!
+
+---
+
+## 📸 Screenshot
+
+Here is a preview of the **Wi-Fi Password Extractor GUI**:
+
+<div style="display: flex; justify-content: space-between;">
+  <p>This screenshot showcases the clean, modern GUI that allows you to extract, save, and copy Wi-Fi passwords with ease.   <img src="assets/images/wifi-pass.png" alt="Wi-Fi Password Extractor Screenshot" width="500px" />
+</p>
+</div>
 
 ---
 
